@@ -1,25 +1,80 @@
-<h1 align="center">Hi 👋, I'm Pranav Thorushe</h1>
+<h1 align="center"> Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, ɪ'ᴍ Pranav Thorushe! </h1>
 <h3 align="center">A passionate Java Developer</h3>
+
+## :sassy_man: About me
+Java Back-end Developer who loves to code and explore things on the internet, with a passion for learning and sharing knowledge. Strong in design and integration with intuitive problem-solving skills and the ability to translate business requirements into technical solutions.
 
 - 🔭 I’m currently working on **Kayak Vehicle Rental System**
 
-- 🌱 I’m currently learning **- Spring Cloud Gateway - Microservices Architecture - Advanced Backend Development**
+- 🌱 I’m currently learning:
+  - Spring Cloud Gateway
+  - Microservices Architecture
+  - Advanced Backend Development
 
-- 👯 I’m looking to collaborate on **- Microservices and Distributed Systems projects - Spring Boot applications**
+- 👯 I’m looking to collaborate on:
+  - Microservices and Distributed Systems projects
+  - Spring Boot applications
 
-- 🤝 I’m looking for help with **- Advanced Spring Cloud patterns - Scaling distributed systems**
+- 🤝 I’m looking for help with:
+  - Advanced Spring Cloud patterns
+  - Scaling distributed systems
+
+- 💬 Ask me about:
+  - Java, Kotlin, Spring Boot
+  - Backend Development
 
 - 👨‍💻 All of my projects are available at [https://github.com/PranavT96](https://github.com/PranavT96)
 
-- 💬 Ask me about **- Java, Kotlin, Spring Boot - Backend Development**
-
 - 📫 How to reach me **pranavthorushe96@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/pranav-thorushe-5a07a6351/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pranav-thorushe-5a07a6351/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/pranav_thorushe/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/pranav_thorushe/?hl=en" height="30" width="40" /></a>
+---
+
+## 👨🏻‍💻 Tech Stack
+
+### ⚡ Languages
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+### 🚀 Libraries & Frameworks
+<a href="" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Spring&color=852100&label=" alt=""/></a>
+<a href="" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=SpringBoot&color=00d09c&label=" alt="" /></a>
+<a href="" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Hibernate&color=000030&label=" alt=""/></a>
+<a href="" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=JDBC&color=400030&label=" alt=""/></a>
+<a href="" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Servlets&color=700030&label=" alt=""/></a>
+
+### 💻 Databases
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+### :heavy_minus_sign: Interested in my top projects?
+
+<p>
+<a href="https://github.com/PranavT96/Kayak-Vehicle-Rental-System" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Kayak-Vehicle-Rental-System&color=0A66C2&label=" alt="Kayak-Vehicle-Rental-System"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
+
+## ɢᴇᴛ ɪɴ ᴛᴏᴜᴄʜ!
+<p align="center">
+<a href="https://www.linkedin.com/in/pranav-thorushe-5a07a6351/" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  alt="LinkedIn Logo"  /></a>  
+<a href="https://www.instagram.com/pranav_thorushe/?hl=en"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="Instagram"><a>
+<a href="mailto:pranavthorushe96@gmail.com" title="Write me an email"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  alt="Gmail Icon" /></a>
+</p>
+
+---
+
+## :trophy: Recent GitHub Activity
+<br/>
+<a href="https://github.com/PranavT96"><img alt="Pranav's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=PranavT96&custom_title=Pranav%20Thorushe's%20Contribution%20Graph&theme=react-dark" /></a>
+<br/>
+
+---
+
+## :trophy: Git profile Trophies
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=PranavT96&layout=compact&theme=algolia" alt="PranavT96" /></a> </p>
+
+---
