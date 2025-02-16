@@ -19,6 +19,8 @@ A passionate **Java Backend Developer** with 3+ years of experience building sca
 
 ### 💻 Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🧠 Caching
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### ☁️ Cloud & DevOps
@@ -59,7 +61,7 @@ A vehicle rental platform built with **Spring Boot** and **Hibernate**, featurin
 
 ---
 
-## ɢᴇᴛ ɪɴ ᴛᴏᴜᴄʜ!
+## ɢᴇᴛ ɪɴ �ᴏᴜᴄʜ!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pranav-thorushe-5a07a6351/" target="_blank">
