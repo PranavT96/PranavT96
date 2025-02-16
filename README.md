@@ -37,10 +37,10 @@ A passionate **Java Backend Developer** with 3+ years of experience building sca
 
 ## :fire: My Projects
 
-### :heavy_minus_sign: Kayak Vehicle Rental System
-A vehicle rental platform built with **Spring Boot** and **Hibernate**, featuring dynamic booking, user management, and third-party API integrations for notifications and payments.
+### :heavy_minus_sign: Travelocity – Hotel Booking Platform
+An advanced hotel booking platform built with **Spring Boot** and **Hibernate**, featuring dynamic bookings, user account management, and seamless customer-hotel communication. The platform integrates third-party APIs for notifications, OTP-based login, secure payments, and dynamic PDF generation for invoices and reports.
 
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/PranavT96/Kayak-Vehicle-Rental-System)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/PranavT96/Travelocity)
 
 ---
 
@@ -61,7 +61,7 @@ A vehicle rental platform built with **Spring Boot** and **Hibernate**, featurin
 
 ---
 
-## ɢᴇᴛ ɪɴ �ᴏᴜᴄʜ!
+## ɢᴇᴛ ɪɴ ᴛᴏᴜᴄʜ!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pranav-thorushe-5a07a6351/" target="_blank">
