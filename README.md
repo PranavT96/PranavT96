@@ -1,80 +1,81 @@
 <h1 align="center"> Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, ɪ'ᴍ Pranav Thorushe! </h1>
-<h3 align="center">A passionate Java Developer</h3>
 
-## :sassy_man: About me
-Java Back-end Developer who loves to code and explore things on the internet, with a passion for learning and sharing knowledge. Strong in design and integration with intuitive problem-solving skills and the ability to translate business requirements into technical solutions.
-
-- 🔭 I’m currently working on **Kayak Vehicle Rental System**
-
-- 🌱 I’m currently learning:
-  - Spring Cloud Gateway
-  - Microservices Architecture
-  - Advanced Backend Development
-
-- 👯 I’m looking to collaborate on:
-  - Microservices and Distributed Systems projects
-  - Spring Boot applications
-
-- 🤝 I’m looking for help with:
-  - Advanced Spring Cloud patterns
-  - Scaling distributed systems
-
-- 💬 Ask me about:
-  - Java, Kotlin, Spring Boot
-  - Backend Development
-
-- 👨‍💻 All of my projects are available at [https://github.com/PranavT96](https://github.com/PranavT96)
-
-- 📫 How to reach me **pranavthorushe96@gmail.com**
+## :technologist: About Me
+A passionate **Java Backend Developer** with 3+ years of experience building scalable web applications using **Spring Boot**, **Hibernate**, and **AWS**. Skilled in designing **RESTful APIs**, integrating third-party services, and implementing secure systems with **JWT authentication**. Always eager to learn and share knowledge, with a strong focus on problem-solving and delivering high-quality solutions.
 
 ---
 
 ## 👨🏻‍💻 Tech Stack
 
 ### ⚡ Languages
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🚀 Libraries & Frameworks
-<a href="" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Spring&color=852100&label=" alt=""/></a>
-<a href="" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=SpringBoot&color=00d09c&label=" alt="" /></a>
-<a href="" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Hibernate&color=000030&label=" alt=""/></a>
-<a href="" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=JDBC&color=400030&label=" alt=""/></a>
-<a href="" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Servlets&color=700030&label=" alt=""/></a>
+### 🚀 Frameworks & Libraries
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
 
 ### 💻 Databases
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+
+### 🛠️ Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 ---
 
-### :heavy_minus_sign: Interested in my top projects?
+## :fire: My Projects
 
-<p>
-<a href="https://github.com/PranavT96/Kayak-Vehicle-Rental-System" target="blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Kayak-Vehicle-Rental-System&color=0A66C2&label=" alt="Kayak-Vehicle-Rental-System"/></a>
+### :heavy_minus_sign: Kayak Vehicle Rental System
+A vehicle rental platform built with **Spring Boot** and **Hibernate**, featuring dynamic booking, user management, and third-party API integrations for notifications and payments.
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/PranavT96/Kayak-Vehicle-Rental-System)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PranavT96&show_icons=true&theme=radical" alt="Pranav's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranavT96&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+## :trophy: GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=PranavT96&theme=onedark&row=1&column=7" alt="GitHub Trophies" />
 </p>
 
 ---
 
 ## ɢᴇᴛ ɪɴ ᴛᴏᴜᴄʜ!
+
 <p align="center">
-<a href="https://www.linkedin.com/in/pranav-thorushe-5a07a6351/" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  alt="LinkedIn Logo"  /></a>  
-<a href="https://www.instagram.com/pranav_thorushe/?hl=en"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="Instagram"><a>
-<a href="mailto:pranavthorushe96@gmail.com" title="Write me an email"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  alt="Gmail Icon" /></a>
+  <a href="https://www.linkedin.com/in/pranav-thorushe-5a07a6351/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:pranavthorushe96@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.instagram.com/pranav_thorushe/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
 </p>
 
 ---
 
-## :trophy: Recent GitHub Activity
-<br/>
-<a href="https://github.com/PranavT96"><img alt="Pranav's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=PranavT96&custom_title=Pranav%20Thorushe's%20Contribution%20Graph&theme=react-dark" /></a>
-<br/>
-
----
-
-## :trophy: Git profile Trophies
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=PranavT96&layout=compact&theme=algolia" alt="PranavT96" /></a> </p>
+## :zap: Fun Fact
+I think I am funny, and I enjoy solving problems with a cup of coffee ☕.
 
 ---
