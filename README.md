@@ -38,8 +38,9 @@ A passionate **Java Backend Developer** with 3+ years of experience building sca
     <img src="https://junit.org/junit5/assets/img/junit5-logo.png" alt="JUnit" width="40" height="40" style="margin-right: 50px;"/>
   </a>
   <a href="https://site.mockito.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/mockito/mockito/main/src/javadoc/org/mockito/logo.png" alt="Mockito" width="40" height="40" style="margin-right: 50px;"/>
-  </a>
+  <img src="https://static.javadoc.io/org.mockito/mockito-core/3.3.3/org/mockito/logo/mockito-logo.png" alt="Mockito" width="40" height="40" style="margin-right: 50px;"/>
+</a>
+
 </p>
 
 ### 💻 Databases
