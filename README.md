@@ -99,8 +99,13 @@ An advanced hotel booking platform built with **Spring Boot** and **Hibernate**,
 ## :trophy: GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PranavT96&theme=onedark&row=1&column=7" alt="GitHub Trophies" style="margin-bottom: 20px;" />
+  <img src="https://github-profile-trophy.vercel.app/?username=PranavT96&theme=onedark&row=1&column=7" alt="GitHub Trophies" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=PranavT96&theme=onedark&row=1&column=7" alt="GitHub Trophies" />
+</p>
+
 
 
 
