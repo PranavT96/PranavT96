@@ -36,14 +36,10 @@ A passionate **Java Backend Developer** with 3+ years of experience building sca
   </a>
   <a href="https://junit.org/junit5/" target="_blank" rel="noreferrer">
     <img src="https://junit.org/junit5/assets/img/junit5-logo.png" alt="JUnit" width="40" height="40" style="margin-right: 50px;"/>
- <a href="https://maven.apache.org/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Maven_logo.svg" alt="Maven" width="40" height="40" style="margin-right: 50px;"/>
-</a>
-<a href="https://spring.io/projects/spring-security" target="_blank" rel="noreferrer">
-  <img src="https://spring.io/images/projects/spring-security-2x.png" alt="Spring Security" width="40" height="40" style="margin-right: 50px;"/>
-</a>
-
-
+  </a>
+  <a href="https://site.mockito.org/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/20563888?s=200&v=4" alt="Mockito" width="40" height="40" style="margin-right: 50px;"/>
+  </a>
 </p>
 
 ### 💻 Databases
